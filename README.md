@@ -1,5 +1,8 @@
 # Projetos de Ciência de Dados
 ---
+### Criar ambiente
+https://github.com/muriloms/projetos-ciencia-de-dados/blob/master/ambienteDev.md
+
 
 ## Machine Learning
 ### Medicina
