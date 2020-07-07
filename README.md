@@ -3,6 +3,11 @@
 ### Criar ambiente
 https://github.com/muriloms/projetos-ciencia-de-dados/blob/master/ambienteDev.md
 
+## Visualização de dados
+## Python
+Visualização de dados com as principais bibliotecas Python
+
+https://github.com/muriloms/data-vis-python
 
 ## Machine Learning
 ### Medicina
