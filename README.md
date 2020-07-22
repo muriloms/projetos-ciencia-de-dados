@@ -20,7 +20,7 @@ Projeto de aprendizado de máquina para prever a ocorrência de AVC com base em 
 https://github.com/muriloms/PreverAVC
 
 ### Imagens
-### -- Classificar imagens de itens de vestuário
+#### -- Classificar imagens de itens de vestuário
 Treinar rede neural feed-forward simples com banco de dados de imagens de itens de vestuário para classificar dentro do conjunto de 10 categorias
 https://github.com/muriloms/tf-basico/blob/master/jupyter-notebook/estudos/classificacao-tf/ClassificarImagensItensVestuario.ipynb
 
@@ -30,7 +30,7 @@ Modelo de predição do risco de crédito para novos clientes
 https://github.com/muriloms/classificar-risco-credito
 
 ### Outros
-### -- Prever chances de admissão no mestrado com regressão linear e TensoFlow
+#### -- Prever chances de admissão no mestrado com regressão linear e TensoFlow
 Criar um modelo de regressão linear capaz de prever as chances de admissão de um aluno em uma universidade, dadas algumas características
 
 https://github.com/muriloms/tf-basico/blob/master/jupyter-notebook/estudos/regressao-linear-tf/PreverChancesDeAdmissoaNoMestrado.ipynb
