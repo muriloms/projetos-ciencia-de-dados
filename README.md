@@ -24,6 +24,11 @@ https://github.com/muriloms/PreverAVC
 Treinar rede neural feed-forward simples com banco de dados de imagens de itens de vestuário para classificar dentro do conjunto de 10 categorias
 https://github.com/muriloms/tf-basico/blob/master/jupyter-notebook/estudos/classificacao-tf/ClassificarImagensItensVestuario.ipynb
 
+### Economia e finanças
+#### -- Classificação do risco de crédito
+Modelo de predição do risco de crédito para novos clientes
+https://github.com/muriloms/classificar-risco-credito
+
 ### Outros
 ### -- Prever chances de admissão no mestrado com regressão linear e TensoFlow
 Criar um modelo de regressão linear capaz de prever as chances de admissão de um aluno em uma universidade, dadas algumas características
