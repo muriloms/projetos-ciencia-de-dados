@@ -35,5 +35,5 @@ https://github.com/muriloms/tf-basico/blob/master/jupyter-notebook/estudos/regre
 
 #### - Projetos DataCamp
 A plataforma DataCamp disponibiliza projetos estruturados para solucionar desenvolver os códigos em todas as fases de um projeto de ciência de dados.
-O repositório abaixo organiza os projetos já concluídos<./p>
+O repositório abaixo organiza os projetos já concluídos.</p>
 https://github.com/muriloms/projetos-datacamp
