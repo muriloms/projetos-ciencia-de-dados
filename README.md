@@ -32,3 +32,8 @@ https://github.com/muriloms/classificar-risco-credito
 #### -- Prever chances de admissão no mestrado com regressão linear e TensoFlow
 Criar um modelo de regressão linear capaz de prever as chances de admissão de um aluno em uma universidade, dadas algumas características</p>
 https://github.com/muriloms/tf-basico/blob/master/jupyter-notebook/estudos/regressao-linear-tf/PreverChancesDeAdmissoaNoMestrado.ipynb
+
+#### - Projetos DataCamp
+A plataforma DataCamp disponibiliza projetos estruturados para solucionar desenvolver os códigos em todas as fases de um projeto de ciência de dados.
+O repositório abaixo organiza os projetos já concluídos
+https://github.com/muriloms/projetos-datacamp
